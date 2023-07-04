@@ -2,4 +2,4 @@ Modified version of [this](https://www.thingiverse.com/thing:4974074), licensed 
 
 Modifications were made to significantly stiffen the mount, as the original was not very strong when printed in PLA
 
-Made for 1/8" cylindrical magnets, such as [These](https://www.kjmagnetics.com/proddetail.asp?prod=D22-N52)
+Made for [1/8" cylindrical magnets](https://www.kjmagnetics.com/proddetail.asp?prod=D22-N52)
