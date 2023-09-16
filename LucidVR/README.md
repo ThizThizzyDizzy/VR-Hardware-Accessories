@@ -1,0 +1,1 @@
+Modified from [LucidVR Prototype 5 Beta Hardware](https://github.com/LucidVR/lucidgloves/tree/b4a268fcb923fe4dba09cc1c1a74e7d3a7797b2d/hardware/Prototype5_BETA) ([License](https://github.com/LucidVR/lucidgloves/blob/main/LICENSE))
